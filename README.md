@@ -1,3 +1,3 @@
 # Pröbed
 
-**P**lugin for **R**emote **ÖbE**ngine **D**ebugging
+***P***lugin for ***R***emote ***ÖbE***ngine ***D***ebugging
